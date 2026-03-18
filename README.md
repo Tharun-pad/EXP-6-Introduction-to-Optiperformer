@@ -79,7 +79,7 @@ The system includes:
 ---
 
 ## Graphs
-![WhatsApp Image 2026-01-24 at 1 29 05 PM](opti.jpeg)
+![WhatsApp Image 2026-01-24 at 1 29 05 PM](EXP6.jpeg)
 
 ---
 
