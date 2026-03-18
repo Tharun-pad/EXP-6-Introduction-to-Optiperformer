@@ -79,7 +79,7 @@ The system includes:
 ---
 
 ## Graphs
-<img width="1118" height="641" alt="image" src="https://github.com/user-attachments/assets/f0e3d3fd-d951-4e09-9aae-8a8cdcacb069" />
+![WhatsApp Image 2026-01-24 at 1 29 05 PM](opti.jpeg)
 
 ---
 
