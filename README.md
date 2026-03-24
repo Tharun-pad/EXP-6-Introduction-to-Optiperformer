@@ -61,6 +61,9 @@ The system includes:
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
+## Block Diagram
+<img width="736" height="388" alt="image" src="https://github.com/user-attachments/assets/7f0776fd-e602-470b-b936-e735e3235040" />
+
 
 ## Tabulation
 
@@ -76,10 +79,11 @@ The system includes:
 | 4 | 90  | 7.801  | 21.079 | 44.5452 | 0 | 1.48427e-05 | 0.546875 |
 | 5 | 100 | 4.422  | 23.679 | 45.2504 | 0 | 9.42485e-06 | 0.546875 |
 
----
-
-## Graphs
 ![WhatsApp Image 2026-01-24 at 1 29 05 PM](EXP6.jpeg)
+
+# Graph
+
+<img width="879" height="323" alt="image" src="https://github.com/user-attachments/assets/ec9ffcf3-76ad-4546-9c5e-d81e140c7fb0" />
 
 ---
 
